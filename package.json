@@ -1,0 +1,19 @@
+{
+  "name": "more-time-range",
+  "version": "1.0.0",
+  "description": "a time range util for moment",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mouday/more-time-range"
+  },
+  "keywords": ["time-range", "time", "range", "moment"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "moment": "^2.29.4"
+  }
+}
