@@ -1,7 +1,5 @@
 # more-time-range
 
-
-
 获取时间范围内的序列
 
 - github: [https://github.com/mouday/more-time-range](https://github.com/mouday/more-time-range)
@@ -10,7 +8,7 @@
 安装
 
 ```bash
-npm i -S more-date-range
+npm i -S more-date-range moment
 ```
 
 示例
