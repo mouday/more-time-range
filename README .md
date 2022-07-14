@@ -5,7 +5,7 @@
 获取时间范围内的序列
 
 - github: [https://github.com/mouday/more-time-range](https://github.com/mouday/more-time-range)
-
+- npm: [https://www.npmjs.com/package/more-time-range](https://www.npmjs.com/package/more-time-range)
 
 安装
 
